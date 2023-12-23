@@ -1,0 +1,27 @@
+# Repositório para revisar informações do livro `Java: Como Programar`
+Utilizando como base `Java 8`
+- [ ] Capítulo 1
+- [ ] Capítulo 2
+- [ ] Capítulo 3
+- [ ] Capítulo 4
+- [ ] Capítulo 5
+- [ ] Capítulo 6
+- [ ] Capítulo 7
+- [ ] Capítulo 8
+- [ ] Capítulo 9
+- [ ] Capítulo 10
+- [ ] Capítulo 11
+- [ ] Capítulo 12
+- [ ] Capítulo 13
+- [ ] Capítulo 14
+- [ ] Capítulo 15
+- [ ] Capítulo 16
+- [ ] Capítulo 17
+- [ ] Capítulo 18
+- [ ] Capítulo 19
+- [ ] Capítulo 20
+- [ ] Capítulo 21
+- [ ] Capítulo 22
+- [ ] Capítulo 23
+- [ ] Capítulo 24
+- [ ] Capítulo 25
